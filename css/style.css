@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import @import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&display=swap');
+@import('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&display=swap');
 /*======================================================
 基本 全体の設定
 ======================================================*/
@@ -28,8 +28,8 @@ body {
 }
 
 a {
-  color: inherit;
   font-family: 'Cherry Bomb One', cursive;
+  color: inherit;
   transition: 0.3s all;/* 値が変わった場合、0.3秒かけて変化する */
 }
 
