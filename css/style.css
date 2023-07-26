@@ -29,6 +29,7 @@ body {
 
 a {
   color: inherit;
+  font-family: 'Cherry Bomb One', cursive;
   transition: 0.3s all;/* 値が変わった場合、0.3秒かけて変化する */
 }
 
